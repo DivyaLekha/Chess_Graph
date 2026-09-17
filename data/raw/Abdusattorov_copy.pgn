@@ -1,0 +1,63 @@
+[Event "ch-UZB 1st League 2014"]
+[Site "Tashkent UZB"]
+[Date "2014.03.01"]
+[Round "1.5"]
+[White "Abdusattorov,Nodirbek"]
+[Black "Pramod,Bandi"]
+[Result "1-0"]
+[WhiteElo "2024"]
+[BlackElo "2212"]
+[ECO "B28"]
+
+1. d4 d5 
+2. e3 Nc6
+3. Nf3 Qd6
+4. Nc3 Nf6
+5. Be2 Bf5 
+6. Bd2 Nb4 
+7. O-O Bxc2 
+8. Qc1 Bd3 
+9. Bxd3 Nxd3 
+10. Qc2 Nb4 
+11. Qb3 Qb6 
+12. a3 Nc6 
+13. Qc2 e6 
+14. Rae1 Be7 
+15. e4 dxe4 
+16. Nxe4 O-O-O 
+17. Bb4 Bxb4 
+18. axb4 Nxe4 
+19. Qxe4 Nxb4 
+20. h3 Kb8 
+21. Rd1 Qb5 
+22. Qg4 g6 
+23. Qe4 Nd5 
+24. Ne5 Rhf8 
+25. Rc1 Qxb2 
+26. Kh1 a5 
+27. Nc4 Qb4 
+28. Qc2 h5 
+29. Rfd1 Nb6
+30. Nxb6 cxb6 
+31. Qc7+ Ka7 
+32. Rc6 Rxd4
+33. Rdc1 Rfd8 
+34. R6c4 Rxc4 
+35. Rxc4 Qe1+ 
+36. Kh2 Rd1 
+37. h4 Qg1+ 
+38. Kh3 Qxf2 
+39. Rf4 Rh1# 0-1
+
+[Event "ch-UZB 1st League 2014"]
+[Site "Tashkent UZB"]
+[Date "2014.03.01"]
+[Round "1.5"]
+[White "Abdusattorov,Nodirbek"]
+[Black "Alikulov,Elbek"]
+[Result "1-0"]
+[WhiteElo "2024"]
+[BlackElo "2212"]
+[ECO "B28"]
+
+1.e4 c5 2.Nf3 a6
